@@ -107,8 +107,9 @@ gnupg
 apg
 transmission-cli
 transmission-gtk
-fortune
+fortune-mod
 pulseaudio
 pavucontrol
 noto-fonts-cjk
 noto-fonts-emoji
+gthumb

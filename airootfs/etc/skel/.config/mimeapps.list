@@ -1,4 +1,6 @@
 [Added Associations]
 x-scheme-handler/http=exo-web-browser.desktop
 x-scheme-handler/https=exo-web-browser.desktop
-
+[Default Applications]
+image/jpeg=gthumb.desktop
+application/pdf=evince.desktop
