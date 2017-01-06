@@ -87,3 +87,4 @@ export PATH="$PATH:$HOME/.gem/ruby/2.3.0/bin"
 export TERM=xterm-256color
 xset -b
 source /usr/bin/virtualenvwrapper.sh
+alias koan=fortune $HOME/.fortunes/koans
