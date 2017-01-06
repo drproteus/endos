@@ -108,3 +108,7 @@ apg
 transmission-cli
 transmission-gtk
 fortune
+pulseaudio
+pavucontrol
+noto-fonts-cjk
+noto-fonts-emoji
