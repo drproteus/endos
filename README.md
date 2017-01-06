@@ -13,6 +13,7 @@ A few things it comes bundled with:
 * Vim with Powerline, Nerdtree, and a few other plugins (managed with Vundle).
 * Chromium with uBlock Origin
 * Frozen Bubble, LTris, and SuperTux
+* Fortune and Zen koans fortune file. Run `koan` for a Zen koan.
 
 Still working on adding some more things and smoothing out the kinks.
 
