@@ -26,7 +26,7 @@ __TODO__
 
 ### Installation
 
-Grab the iso from [here](http://addlink)
+Grab the iso from [here](https://mega.nz/#!P8JAgTqR!WdWNoo5XAGDiZZOR5cnnge0aJUHjFp1ZGljkyl-oDdg)
 
 Make sure you have `dd` installed (you probably do).
 
