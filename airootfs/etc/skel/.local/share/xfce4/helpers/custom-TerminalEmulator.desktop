@@ -1,0 +1,4 @@
+X-XFCE-CommandsWithParameter=terminology "%s"
+Icon=terminology
+Name=terminalogy
+X-XFCE-Commands=terminalogy
