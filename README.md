@@ -2,7 +2,7 @@
 
 For when you need a comfortable Linux system to develop on, when all else fails.
 
-I've always wanted to put together a live Linux distro since trying out Knoppix back in 2009. Thanks to Arch linux and archiso, it is now a reality.
+I've always wanted to put together a live Linux distro since trying out Knoppix back in 2006. Thanks to Arch linux and archiso, it is now a reality.
 
 A few things it comes bundled with:
 
